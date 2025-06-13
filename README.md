@@ -1,6 +1,5 @@
 Hi there 👋
 
-
 🔭 I’m currently working on:
 Building modern web applications using ASP.NET Core, C#, Angular, and Entity Framework, while exploring ways to integrate AI features into full-stack apps.
 
@@ -28,24 +27,5 @@ Deploying apps with Docker, Kubernetes, and Azure/AWS
 
 ⚡ Fun fact:
 I’m always curious about how AI can make software smarter — from auto-tagging images to generating code snippets — and I love turning that curiosity into side projects!
-
-
-🌐 Socials:
-Discord LinkedIn email
-
-💻 Tech Stack:
-CSS3 C# HTML5 Objective-C Python PowerShell TypeScript AWS Azure .Net Angular Angular.js Jenkins MicrosoftSQLServer MySQL Canva GitLab
-
-📊 GitHub Stats:
-
-
-
-
-
-
-🏆 GitHub Trophies
-
-
-✍️ Random Dev Quote
 
 
